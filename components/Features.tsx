@@ -1,6 +1,5 @@
 import { FEATURES } from "@/constants";
 import Image from "next/image";
-import { type } from "os";
 import React from "react";
 
 const Features = () => {
